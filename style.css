@@ -1,0 +1,49 @@
+.button button{
+    padding: 10px 10px;
+    color: white;
+    background: rgb(169, 15, 15);
+    margin-top: 15px;
+   border: 7px;
+   display: block;
+   margin: auto;
+   cursor: pointer;
+   
+    
+}
+
+h1{
+    font-family: Oswald;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+p{
+    font-size: 18px;
+    text-align: center;
+    font-family: Nunito Sans;
+}
+
+.footer{
+    background: black;
+    color: white;
+    height: 20vh;
+    width: 100%;
+    
+}
+.footer footer{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+
+img{
+    width: 45%;
+    height: 100vh;
+    justify-content: center;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
